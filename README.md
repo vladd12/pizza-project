@@ -1,2 +1,2 @@
-# pizza-project
-Pizza Website
+# Pizza Project
+Small website with pizza saling
